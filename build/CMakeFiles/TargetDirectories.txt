@@ -1,0 +1,4 @@
+D:/AVLTEST/build/CMakeFiles/main.dir
+D:/AVLTEST/build/CMakeFiles/test.dir
+D:/AVLTEST/build/CMakeFiles/edit_cache.dir
+D:/AVLTEST/build/CMakeFiles/rebuild_cache.dir
